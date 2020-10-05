@@ -1,0 +1,53 @@
+*{
+    background-color: white;
+}
+  #img1{
+      width: 100%;
+      height: 50%;
+      padding: 20px;
+  }
+  .che{
+    border-bottom: 2px solid black;
+  }
+
+  #img2{
+    width: 100%;
+    height: 100%;
+    padding: 2%;
+}
+.small-font{
+   font-size: 10px; 
+}
+
+.padded-right{
+    padding: 30px;
+    border: 2px solid grey;
+}
+.first-pad{
+    padding-bottom: 20%;
+}
+.padded{
+    padding-top: 10%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.bottom-bor{
+    border-top: 2px solid black;
+}
+
+.size-whole{
+    height: 100%;
+}
+
+
+.new{
+    height: 50%;
+}
+#mid{
+    text-align: center;
+    border-top: 2px solid black; 
+    border-bottom: 2px solid black;
+    font-size: 14px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
